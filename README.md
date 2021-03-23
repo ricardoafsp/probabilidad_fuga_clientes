@@ -1,4 +1,8 @@
-# probabilidad_fuga_clientes
+# Probabilidad de una posible fuga de clientes de una compañía en base a su edad y sus consumos.
+
+Los datos fueron obtenidos de distintos archivos csv, luego mergeados para trabajar con una única tabla.
+
+Se usaron distintos algoritmos de machine learning, entre ellos random forest y xgboost, también se usó grid search para lograr obtener los mejores parámetros posibles.
 
 # Conclusión:
 Los clientes que tienen más de un 70% de probabilidad de marcharse de la compañía son los que cumplen las siguientes características:
